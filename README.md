@@ -1,6 +1,8 @@
 ## What did we learn?
 * Consumers are actions!
 * Function modifies input into new output!
+* Stream is a stream of data!
+* Reduce reduces elements down to a single element!
 * Don't call the callback!
 ## Assignments
 ### 1. Callback with Consumer
@@ -43,6 +45,6 @@ function that processes it.
 ---
 
 ### 5. Stream reduce
-- [ ] Create a list of `Double` values representing product prices.
-- [ ] Use `Stream` with reduce to calculate the sum of all prices.
-- [ ] Use another reduce to calculate the max price.
+- [x] Create a list of `Double` values representing product prices.
+- [x] Use `Stream` with reduce to calculate the sum of all prices.
+- [x] Use another reduce to calculate the max price.

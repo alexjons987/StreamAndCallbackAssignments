@@ -23,11 +23,11 @@ function that processes it.
 ---
 
 ### 3. Stream filter
-- [ ] Create a list of integers.
+- [x] Create a list of integers.
 - Use the Stream API to:
-  1. [ ] i. Filter out all even numbers.
-  2. [ ] ii. Increase each number by 5 (map).
-  3. [ ] ii. Print the result using forEach.
+  1. [x] i. Filter out all even numbers.
+  2. [x] ii. Increase each number by 5 (map).
+  3. [x] iii. Print the result using forEach.
 
 ---
 

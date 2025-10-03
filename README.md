@@ -32,13 +32,13 @@ function that processes it.
 ---
 
 ### 4. Stream + Comparator
-- [ ] Create a class `Person` with fields `String name` and `int age`.
-- [ ] Make a list of multiple people.
+- [x] Create a class `Person` with fields `String name` and `int age`.
+- [x] Make a list of multiple people.
 - Use Streams to:
-  1. [ ] i. Filter out people over 18.
-  2. [ ] ii. Sort them by age (ascending).
-  3. [ ] ii. Extract only their names (map).
-  4. [ ] iv. Print the names.
+  1. [x] i. Filter out people over 18.
+  2. [x] ii. Sort them by age (ascending).
+  3. [x] ii. Extract only their names (map).
+  4. [x] iv. Print the names.
 
 ---
 

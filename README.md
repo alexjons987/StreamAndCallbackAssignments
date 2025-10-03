@@ -1,9 +1,7 @@
 ## What did we learn?
-* Don't call the callback!
-* Predicates are conditions!
 * Consumers are actions!
-* Comparators compare!
-* Map transforms one thing to another!
+* Function modifies input into new output!
+* Don't call the callback!
 ## Assignments
 ### 1. Callback with Consumer
 - [x] Create a method `processString(String input, Consumer<String> callback)` that takes a string and runs the callback 
@@ -15,12 +13,12 @@ function on it.
 ---
 
 ### 2. Callback for calculation
-- [ ] Create a method `processNumber(int number, Function<Integer, Integer> callback)` that takes an integer and a
+- [x] Create a method `processNumber(int number, Function<Integer, Integer> callback)` that takes an integer and a
 function that processes it.
 - Test with different callbacks:
-  1. [ ] i. Multiply the number by 2.
-  2. [ ] ii. Square the number.
-  3. [ ] iii. Add 10 to the number.
+  1. [x] i. Multiply the number by 2.
+  2. [x] ii. Square the number.
+  3. [x] iii. Add 10 to the number.
 
 ---
 
